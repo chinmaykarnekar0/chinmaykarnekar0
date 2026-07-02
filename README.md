@@ -62,12 +62,6 @@ A Docker-based big data platform with Hadoop, HDFS, Hive Metastore, and Apache S
 
 ---
 
-## 📜 Certification
-
-- AWS Certified Solutions Architect – Associate (SAA-C03)
-
----
-
 ## 📈 Currently Learning
 
 - Kubernetes (Amazon EKS)
